@@ -1,0 +1,7 @@
+The file was blocked since it contained data that is not allowed to be downloaded.
+----------------------------------------------------------------------------------
+Original file name: export.pdf
+----------------------------------------------------------------------------------
+Download of contents on unmanaged devices is blocked as per Cognizant Policy.
+
+Note: If you are unable to access via Cognizant device in chrome browser, please sign-out from your personal Gmail profile in Chrome browser and access the application. Alternatively, you can login via Edge browser.
